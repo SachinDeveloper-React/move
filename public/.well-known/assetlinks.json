@@ -1,0 +1,13 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "movefront",
+      "package_name": "com.movefront",
+      "sha256_cert_fingerprints": [
+        "FA:C6:17:45:DC:09:03:78:6F:B9:ED:E6:2A:96:2B:39:9F:73:48:F0:BB:6F:89:9B:83:32:66:75:91:03:3B:9C",
+        "1D:A5:7C:F2:71:34:99:4A:18:45:C8:F8:9C:6A:B2:84:47:5B:2D:44:E1:DC:DB:99:6B:AC:15:89:62:4C:86:13"
+      ]
+    }
+  }
+]
